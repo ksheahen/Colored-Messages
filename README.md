@@ -4,4 +4,5 @@ An assembly program displaying a message in ✨style✨.
 
 # Example Output
 
-<img width="453" alt="Chapter 8 Program 2 Screenshot - Copy" src="https://github.com/ksheahen/Colored-Messages/assets/112595660/46b8cd03-9afe-4651-a88a-633b2a879097">
+![image](https://github.com/ksheahen/Colored-Messages/assets/112595660/516e264a-627c-41e7-b26f-1d03a49dae50)
+
