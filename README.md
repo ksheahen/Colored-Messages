@@ -4,5 +4,6 @@ An assembly program displaying a message in ✨style✨.
 
 # Example Output
 
-![image](https://github.com/ksheahen/Colored-Messages/assets/112595660/516e264a-627c-41e7-b26f-1d03a49dae50)
+![image](https://github.com/ksheahen/Colored-Messages/assets/112595660/ecd188df-6da8-4816-91f3-cca8072d7606)
+
 
